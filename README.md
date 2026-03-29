@@ -1,10 +1,6 @@
 # bScan
 A fast, multithreaded TCP port scanner written in C++ using the Windows Winsock API. This tool scans localhost (127.0.0.1) across all ports using non-blocking sockets and concurrent threads for improved performance.
 
-# 📡 Multithreaded TCP Port Scanner (C++ / Winsock)
-
-A fast, multithreaded TCP port scanner written in C++ using the Windows Winsock API. This tool scans localhost (`127.0.0.1`) across all ports using non-blocking sockets and concurrent threads for improved performance.
-
 ---
 
 ## 🚀 Features
