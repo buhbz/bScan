@@ -116,8 +116,3 @@ exit
 This tool is intended for educational and authorized testing purposes only.  
 Do not use it on networks or systems without permission.
 
----
-
-## 📄 License
-
-MIT License (or choose your preferred license)
